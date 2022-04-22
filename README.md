@@ -26,7 +26,7 @@ java tuple implementation
 
 <p align="center">
 	<a target="_blank" href="https://search.maven.org/artifact/com.whaleal/tuple">
-		<img src="https://img.shields.io/maven-central/v/com.whaleal.tuple/tuple-core.svg?label=Maven%20Central" />
+		<img src="https://img.shields.io/maven-central/v/com.whaleal/tuple.svg?label=Maven%20Central" />
 	</a>
 	<a target="_blank" href="https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html">
 		<img src="https://img.shields.io/badge/JDK-8+-green.svg" />
