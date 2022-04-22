@@ -1,5 +1,5 @@
 
-#Intro
+# Intro
 
  
 
@@ -15,7 +15,7 @@ In a two-dimensional table, tuples are also called rows.
 
 
 
-#Why use it
+# Why use it
 
 For example, if you need to return multiple values, we use java, usually define a Model class, or simply put it directly in MAP,
 These two ways are actually not very convenient, one requires frequent definitions, and the other for the type of return value we don't know.
@@ -23,15 +23,6 @@ These two ways are actually not very convenient, one requires frequent definitio
 TUPLE in Java supports us to create ten return values, where the types in Tuple, we can store it casually.
 Here is actually used in java, to help us express the type inside.
 
-### 🎋Branch description
-
-The source code of TUPLE is divided into two branches, the functions are as follows:
-
-| Branch       | effect                                                          |
-|-----------|---------------------------------------------------------------|
-| main  | The branch used by the main branch, the branch used by the Release version, is consistent with the JAR submitted by the central library, does not receive any PR or modification |
-| v1-main | The main branch of the large version, with different large versions have different vxx-main, used to merge V1-DEV, observe characteristics, do not receive any PR or modification |
-| v1-dev    | Develop branches, default is the next version of the Snapshot version, accept modification or PR                 |
 
 ### 🐞Provide BUG feedback or suggestions
 
@@ -43,8 +34,8 @@ Submit Problem Feedback Please indicate the JDK version, TUPLE version and relat
 1. Find questions that need to be repaired on GitHub Issues, or to contribute to characteristics
 2. In GitHub or Github on the Fork project to your own REPO
 3. Putting Fork past items is your project clone to your local
-4. Modify the code (remember to modify the V1-DEV branch) and perform related tests
-5. COMMIT after Push to your own library (V1-dev branch)
+4. Modify the code and perform related tests
+5. COMMIT after Push to your own library 
 6. Log in GitHub or Github You can see a Pull Request button in your homepage, click on it, select your own dev branch and the DEV branch of this item, fill in some explanations, and then submit it.
 7. Waiting for the maintainer merger
 
