@@ -46,7 +46,7 @@ Tuple welcomes anyone to contribute code for Tuple, and the PR (PULL Request) th
 1. Completion, especially each new method, according to the Java document specification, the method, parameter description, return value description, etc., if necessary, add a unit test, if you want, you can also add your name.
 2. The indentation of TUPLE is indent according to the IdeA default (Tab).
 3. The new approach does not use a third-party library method, TUPLE follows an unregistered principle (unless the method tool is added in the EXTRA module).
-4. Please Pull Request to `V1-Dev` branch. TUPLE uses a new branch after the 1.x version: `v1-main` is the main branch, indicating that the version has been released, this branch does not allow PR, nor allows modification.
+4. Please Pull Request to branch. TUPLE uses a new branch after the 1.x version: the main branch, indicating that the version has been released, this branch does not allow PR, nor allows modification.
 
 -------------------------------------------------------------------------------
 
