@@ -77,12 +77,12 @@ Java中Tuple最多支持我们创建十个返回值，其中tuple中的类型，
 
 ### 🍐Gradle
 ```
-implementation 'com.whaleal.tuple:tuple-core:x.x.x'
+implementation 'com.whaleal:tuple:0.1.0'
 ```
 
 ### 📥下载jar
 
-点击以下链接，下载`tuple-core-X.X.X.jar`即可：
+点击以下链接，下载`event-X.X.X.jar`即可：
 
 - [Maven中央库](https://repo1.maven.org/maven2/com/whaleal/tuple)
 
