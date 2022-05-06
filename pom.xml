@@ -8,10 +8,19 @@
 
     <groupId>com.whaleal</groupId>
     <artifactId>tuple</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 
     <name>tuple</name>
     <description>java tuple implementation</description>
+
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
+       </dependencies>
     <build>
         <plugins>
             <plugin>
