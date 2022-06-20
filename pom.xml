@@ -8,7 +8,7 @@
 
     <groupId>com.whaleal</groupId>
     <artifactId>tuple</artifactId>
-    <version>0.1.2</version>
+    <version>0.2.0</version>
 
     <name>tuple</name>
     <description>java tuple implementation</description>
